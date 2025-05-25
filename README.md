@@ -3,6 +3,7 @@
 Interactive browser demo of concept blending in MeTTa, built for the DeepFunding RFP **“Experiment with Concept Blending in MeTTa.”**
 
 Live demo: https://concept-forge.vercel.app/
+
 RFP details: https://deepfunding.ai/rfp/experiment-with-concept-blending-in-metta/
 
 ---
